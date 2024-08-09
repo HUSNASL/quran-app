@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.amiri-quran-regular {
+    font-family: "Noto Sans Arabic", serif;
+    font-weight: 300;
+    font-style: normal;
+  }
+  
